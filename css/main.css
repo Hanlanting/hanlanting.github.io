@@ -9,6 +9,9 @@ header{
     display: inline-block;
     position: relative;
 }
+nav {
+    width: 100%;
+}
 nav ul {
     list-style-type: none;
     margin: 0;
